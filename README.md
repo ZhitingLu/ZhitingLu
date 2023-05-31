@@ -40,7 +40,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/9ab8c711-c6a7-472d-aa10-056be2a0ebbe" alt="App Screenshot" width="800">
+  <a href="https://myasb.asbarcelona.com/asbmarket/">
+    <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/9ab8c711-c6a7-472d-aa10-056be2a0ebbe" alt="App Screenshot" width="800">
+  </a>
 </p>
 
 
