@@ -32,6 +32,28 @@
 ![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js
 
 
+<div align="center">
+
+[![Featured Project](https://img.shields.io/badge/Featured%20Project-Blue?style=for-the-badge&logoColor=white&color=blue)](https://myasb.asbarcelona.com/asbmarket/)
+
+</div>
+
+
+<p align="center">
+  <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/9ab8c711-c6a7-472d-aa10-056be2a0ebbe" alt="App Screenshot" width="800">
+</p>
+
+
+## Technologies Used
+
+- Django
+- Django Rest Framework
+- JavaScript
+- CSS
+- HTML
+- Bootstrap
+
+
 <p align="center">
   <strong>Let's connect:</strong>
   <br>
