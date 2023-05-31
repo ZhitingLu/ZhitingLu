@@ -27,8 +27,6 @@
 ![Django Rest Framework](https://img.icons8.com/color/48/000000/django.png) Django Rest Framework &nbsp;&nbsp;&nbsp;
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB &nbsp;&nbsp;&nbsp;
 ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL &nbsp;&nbsp;&nbsp;
-![Svelte](![image](https://github.com/ZhitingLu/ZhitingLu/assets/62883171/c854bf2d-5c0d-4f3a-a13c-3f86f74af2ae)
-) Svelte &nbsp;&nbsp;&nbsp;
 ![Bash](https://img.icons8.com/plasticine/48/000000/bash.png) Bash &nbsp;&nbsp;&nbsp;
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js &nbsp;&nbsp;&nbsp;
 ![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js
