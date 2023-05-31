@@ -48,12 +48,14 @@
 
 ## Technologies Used
 
-- Django
-- Django Rest Framework
-- JavaScript
-- CSS
-- HTML
-- Bootstrap
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django">
+  <img src="https://img.icons8.com/color/48/000000/django-rest-api.png" alt="Django Rest Framework">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap">
+</p>
 
 
 <p align="center">
