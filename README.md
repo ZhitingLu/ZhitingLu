@@ -24,7 +24,8 @@
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript &nbsp;&nbsp;&nbsp;
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) Angular &nbsp;&nbsp;&nbsp;
 ![Django](https://img.icons8.com/color/48/000000/django.png) Django &nbsp;&nbsp;&nbsp;
-![Django Rest Framework](https://img.icons8.com/color/48/000000/django.png) Django Rest Framework &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/ce121611-74d7-45d5-92ba-baac7c47fda3" alt="Django Rest Framework" width="auto" height="42" margin-right="5px" >
+<img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/40bdeb5a-616b-4aa2-b5c8-7f9deab6e5e1" alt="Rest API" width="auto" height="42" margin-right="8px" >
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB &nbsp;&nbsp;&nbsp;
 ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL &nbsp;&nbsp;&nbsp;
 ![Bash](https://img.icons8.com/plasticine/48/000000/bash.png) Bash &nbsp;&nbsp;&nbsp;
@@ -32,9 +33,10 @@
 ![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js
 
 
+## Freatured project
 <div align="center">
 
-[![Featured Project](https://img.shields.io/badge/Featured%20Project-Blue?style=for-the-badge&logoColor=white&color=blue)](https://myasb.asbarcelona.com/asbmarket/)
+[![Featured Project](https://img.shields.io/badge/go%20to%20visit-Blue?style=for-the-badge&logoColor=white&color=blue)](https://myasb.asbarcelona.com/asbmarket/)
 
 </div>
 
@@ -50,7 +52,8 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django">
-  <img src="https://img.icons8.com/color/48/000000/django-rest-api.png" alt="Django Rest Framework">
+  <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/ce121611-74d7-45d5-92ba-baac7c47fda3" alt="Django Rest Framework" width="auto" height="42">
+  <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/40bdeb5a-616b-4aa2-b5c8-7f9deab6e5e1" alt="Rest API" width="auto" height="42" margin-right="8px" >
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
