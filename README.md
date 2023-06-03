@@ -31,6 +31,8 @@
 ![Bash](https://img.icons8.com/plasticine/48/000000/bash.png) Bash &nbsp;&nbsp;&nbsp;
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js &nbsp;&nbsp;&nbsp;
 ![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
 
 
 ## Freatured project
@@ -60,7 +62,7 @@
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap">
 </p>
 
-##Let's connect
+## Let's connect
 <p align="center">
   <strong>Let's connect:</strong>
   <br>
