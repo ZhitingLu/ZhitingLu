@@ -33,7 +33,7 @@
 ![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
-
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap">
 
 ## Freatured project
 <div align="center">
