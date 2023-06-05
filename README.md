@@ -64,7 +64,6 @@
 
 ## Let's connect
 <p align="center">
-  <strong>Let's connect:</strong>
   <br>
   <a href="https://linkedin.com/in/zhiting-lu/">LinkedIn</a>
 </p>
