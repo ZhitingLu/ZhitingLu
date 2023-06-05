@@ -49,10 +49,10 @@
   </a>
 </p>
 
-
-## Technologies Used
+<p align="center"><strong>Technologies used</strong></p>
 
 <p align="center">
+  
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django">
   <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/ce121611-74d7-45d5-92ba-baac7c47fda3" alt="Django Rest Framework" width="auto" height="42">
   <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/40bdeb5a-616b-4aa2-b5c8-7f9deab6e5e1" alt="Rest API" width="auto" height="42" margin-right="8px" >
