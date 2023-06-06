@@ -59,6 +59,7 @@
   <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/2191e681-4951-43fd-8c7b-2230d47d9421" alt="Stripe" width="auto" height="42" margin-right="8px" >
   <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/87486756-dc2f-4e11-b4a3-fb27d1dcebac" alt="AWS Cloud" width="auto" height="42" margin-right="8px" >
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"> 
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
