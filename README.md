@@ -19,6 +19,7 @@
 
 ![Python](https://img.icons8.com/color/48/000000/python.png) Python &nbsp;&nbsp;&nbsp;
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/e13a76b5-4519-497c-aa95-c1a70f6c21df" alt="jQuery" width="auto" height="42" margin-right="8px">
 ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL &nbsp;&nbsp;&nbsp;
 ![React](https://img.icons8.com/color/48/000000/react-native.png) React &nbsp;&nbsp;&nbsp;
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript &nbsp;&nbsp;&nbsp;
@@ -61,6 +62,7 @@
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
+  <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/e13a76b5-4519-497c-aa95-c1a70f6c21df" alt="jQuery" width="auto" height="42" margin-right="8px">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap">
