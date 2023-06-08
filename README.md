@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/-Tech%20Enthusiast-blueviolet?style=flat-square&logo=appveyor" alt="Tech Enthusiast">
   <img src="https://img.shields.io/badge/-Code%20Wizard-brightgreen?style=flat-square&logo=appveyor" alt="Code Wizard">
   <img src="https://img.shields.io/badge/-Open%20Source%20Advocate-orange?style=flat-square&logo=appveyor" alt="Open Source Advocate">
+  <img src="https://img.shields.io/badge/Linux%20Dev-blue?style=flat-square&logo=linux&logoColor=white" alt="Linux developer">
+  
 </p>
 
 <!-- Your bio -->
