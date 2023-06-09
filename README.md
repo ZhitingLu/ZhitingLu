@@ -1,9 +1,9 @@
-<!-- Your introduction and banner -->
+<!-- My introduction and banner -->
 <p align="center">
   <img src="https://media.tenor.com/nVJHU3V6cz8AAAAC/faster-cat-typing.gif" alt="Banner">
 </p>
 
-<!-- Your badges -->
+<!-- My badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Tech%20Enthusiast-blueviolet?style=flat-square&logo=appveyor" alt="Tech Enthusiast">
   <img src="https://img.shields.io/badge/-Code%20Wizard-brightgreen?style=flat-square&logo=appveyor" alt="Code Wizard">
@@ -12,7 +12,7 @@
   
 </p>
 
-<!-- Your bio -->
+<!-- My bio -->
 <p align="center">
   Hi there! 👋 I'm Zhiting Lu, a passionate full stack developer with a strong commitment to continuous learning. I thrive on exploring new technologies, solving complex problems, and building innovative solutions. My journey as a developer has been characterized by a relentless pursuit of knowledge and a drive to stay up-to-date with the latest industry trends.
 </p>
@@ -52,6 +52,9 @@
   </a>
 </p>
 
+<p align="center">(For more app demos, please feel free to reach out to me at zhitinglu@outlook.com)</p>
+
+
 <p align="center"><strong>Technologies used</strong></p>
 
 <p align="center">
@@ -70,13 +73,14 @@
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap">
 </p>
 
+<!-- My media -->
 ## Let's connect
 <p align="center">
   <br>
   <a href="https://linkedin.com/in/zhiting-lu/">LinkedIn</a>
 </p>
 
-<!-- Your favorite quote -->
+<!-- My favorite quote -->
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it’s bad."</em>
 </p>
@@ -84,7 +88,7 @@
   <em>"Don’t comment bad code — rewrite it."</em>
 </p>
 
-<!-- Your footer -->
+<!-- My footer -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username" alt="Visitors">
 </p>
