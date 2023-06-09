@@ -41,7 +41,7 @@
 ## Freatured project
 <div align="center">
 
-[![Featured Project](https://img.shields.io/badge/go%20to%20visit-Blue?style=for-the-badge&logoColor=white&color=blue)](https://myasb.asbarcelona.com/asbmarket/)
+[![Featured Project](https://img.shields.io/badge/go%20to%20visit-Blue?style=for-the-badge&logoColor=white&color=blue)](https://asbmarket.asbarcelona.com/asbmarket/)
 
 </div>
 
