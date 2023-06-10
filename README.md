@@ -23,6 +23,7 @@
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/e13a76b5-4519-497c-aa95-c1a70f6c21df" alt="jQuery" width="auto" height="42" margin-right="8px">
 ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL &nbsp;&nbsp;&nbsp;
+![image](https://github.com/ZhitingLu/ZhitingLu/assets/62883171/80e28d12-3f25-41f2-b368-b5529a5eab24)
 ![React](https://img.icons8.com/color/48/000000/react-native.png) React &nbsp;&nbsp;&nbsp;
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript &nbsp;&nbsp;&nbsp;
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) Angular &nbsp;&nbsp;&nbsp;
