@@ -75,6 +75,18 @@
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap">
 </p>
 
+<!-- My gitlab -->
+## Gitlab overview
+<div align="center">
+
+[![Gitlab](https://img.shields.io/badge/Vist%20My%20Gitlab%20-Blue?style=for-the-badge&logoColor=white&color=blue)](https://gitlab.asbarcelona.com/Lu)
+
+<p align="center">
+<img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/fd28128d-5a54-4bd9-9447-465fa2bc047f" alt="Gitlab Screenshot" width="800">
+</p>
+
+</div>
+
 <!-- My media -->
 ## Let's connect
 <p align="center">
