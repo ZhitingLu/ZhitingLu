@@ -96,9 +96,6 @@
 
 <!-- My favorite quote -->
 <p align="center">
-  <em>"Code is like humor. When you have to explain it, it’s bad."</em>
-</p>
-<p align="center">
   <em>"Don’t comment bad code — rewrite it."</em>
 </p>
 
