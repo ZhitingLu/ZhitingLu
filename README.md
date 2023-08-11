@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <span style="color: red;">(For more app demos, please feel free to reach out to me at zhitinglu@outlook.com)</span>
+  <span style="color: red;">(For more app demos, please feel free to reach out.</span>
 </p>
 
 <p align="center"><strong>Technologies used</strong></p>
