@@ -92,6 +92,8 @@
 <p align="center">
   <br>
   <a href="https://linkedin.com/in/zhiting-lu/">LinkedIn</a>
+   <br>
+  <a href="https://zhitinglu.com/">Personal Web</a>
 </p>
 
 <!-- My favorite quote -->
