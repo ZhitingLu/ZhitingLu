@@ -42,34 +42,17 @@
 ## Freatured project
 <div align="center">
 
-[![Featured Project](https://img.shields.io/badge/go%20to%20visit-Blue?style=for-the-badge&logoColor=white&color=blue)](https://asbmarket.asbarcelona.com/asbmarket/)
+[![Featured Project](https://img.shields.io/badge/go%20to%20visit-Blue?style=for-the-badge&logoColor=white&color=blue)](https://zhitinglu.com/)
 
 </div>
 
 
 <p align="center">
-  <a href="https://myasb.asbarcelona.com/asbmarket/">
-    <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/9ab8c711-c6a7-472d-aa10-056be2a0ebbe" alt="App Screenshot" width="800">
+  <a href="https://zhitinglu.com/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/cc695967-c4b8-4985-946b-2123068844da" alt="App Screenshot" width="1000">
   </a>
 </p>
 
-<p align="center"><strong>Technologies used</strong></p>
-
-<p align="center">
-  
-  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django">
-  <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/ce121611-74d7-45d5-92ba-baac7c47fda3" alt="Django Rest Framework" width="auto" height="42">
-  <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/40bdeb5a-616b-4aa2-b5c8-7f9deab6e5e1" alt="Rest API" width="auto" height="42" margin-right="8px" >
-  <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/2191e681-4951-43fd-8c7b-2230d47d9421" alt="Stripe" width="auto" height="42" margin-right="8px" >
-  <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/87486756-dc2f-4e11-b4a3-fb27d1dcebac" alt="AWS Cloud" width="auto" height="42" margin-right="8px" >
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"> 
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
-  <img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/e13a76b5-4519-497c-aa95-c1a70f6c21df" alt="jQuery" width="auto" height="42" margin-right="8px">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap">
-</p>
 
 <!-- My gitlab -->
 ## Gitlab overview
