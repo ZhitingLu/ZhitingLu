@@ -77,10 +77,6 @@
 
 <!-- My favorite quote -->
 <p align="center">
-  <em>"Don’t comment bad code — rewrite it."</em>
+  <em>"Code with purpose, build with passion, and never stop learning."</em>
 </p>
 
-<!-- My footer -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username" alt="Visitors">
-</p>
