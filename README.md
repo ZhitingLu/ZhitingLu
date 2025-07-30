@@ -1,12 +1,7 @@
-<!-- My introduction and banner -->
-<p align="center">
-  <img src="https://media.tenor.com/nVJHU3V6cz8AAAAC/faster-cat-typing.gif" alt="Banner">
-</p>
 
 <!-- My badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Tech%20Enthusiast-blueviolet?style=flat-square&logo=appveyor" alt="Tech Enthusiast">
-  <img src="https://img.shields.io/badge/-Code%20Wizard-brightgreen?style=flat-square&logo=appveyor" alt="Code Wizard">
   <img src="https://img.shields.io/badge/-Open%20Source%20Advocate-orange?style=flat-square&logo=appveyor" alt="Open Source Advocate">
   <img src="https://img.shields.io/badge/Linux%20Dev-blue?style=flat-square&logo=linux&logoColor=white" alt="Linux developer">
   
@@ -14,7 +9,13 @@
 
 <!-- My bio -->
 <p align="center">
-  Hi there! 👋 I'm Zhiting Lu, a passionate full stack developer with a strong commitment to continuous learning. I thrive on exploring new technologies, solving complex problems, and building innovative solutions. My journey as a developer has been characterized by a relentless pursuit of knowledge and a drive to stay up-to-date with the latest industry trends.
+I'm passionate about technology not just for what it is—but for what it enables. Whether it's a small utility or a full-scale product, I care about building things that work, feel good to use, and solve real problems.
+</p>
+<p align="center">
+I thrive in fast-moving, low-ego teams where results matter more than titles or process. I enjoy deep focus, clear goals, and working with people who value ownership and honesty. If something can be done simpler, smarter, or faster—I’m probably already thinking about it.
+</p>
+<p align="center">
+Always learning. Always building. No BS.
 </p>
 
 ## My Skills
@@ -48,23 +49,10 @@
 
 
 <p align="center">
-  <a href="https://zhitinglu.com/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/cc695967-c4b8-4985-946b-2123068844da" alt="App Screenshot" width="1000">
+  <a href="https://innoartis.com/" target="_blank">
+    <img width="1199" height="1033" alt="image" src="https://github.com/user-attachments/assets/a8d05fe5-9877-41f6-b454-827654808be9" />
   </a>
 </p>
-
-
-<!-- My gitlab -->
-## Gitlab overview
-<div align="center">
-
-[![Gitlab](https://img.shields.io/badge/Vist%20My%20Gitlab%20-Blue?style=for-the-badge&logoColor=white&color=blue)](https://gitlab.asbarcelona.com/Lu)
-
-<p align="center">
-<img src="https://github.com/ZhitingLu/ZhitingLu/assets/62883171/fd28128d-5a54-4bd9-9447-465fa2bc047f" alt="Gitlab Screenshot" width="800">
-</p>
-
-</div>
 
 <!-- My media -->
 ## Let's connect
