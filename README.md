@@ -43,7 +43,7 @@ Always learning. Always building. No BS.
 ## Freatured project
 <div align="center">
 
-[![Featured Project](https://img.shields.io/badge/go%20to%20visit-Blue?style=for-the-badge&logoColor=white&color=blue)](https://zhitinglu.com/)
+[![Featured Project](https://img.shields.io/badge/go%20to%20visit-Blue?style=for-the-badge&logoColor=white&color=blue)](https://innoartis.com/)
 
 </div>
 
